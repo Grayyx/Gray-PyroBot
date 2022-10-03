@@ -30,6 +30,8 @@ async def main():
             await bot.join_chat("CilikProject")
             await bot.join_chat("CilikSupport")
             await bot.join_chat("GrayStoreee1")
+            await bot.join_chat("Graymemberr")
+            await bot.join_chat("SharingUserbot")            
             try:
                 await bot.send_message(
                     BOTLOG_CHATID, MSG_ON.format(BOT_VER)
