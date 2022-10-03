@@ -1,7 +1,7 @@
 {
-  "name": "Cilik-Ubot",
-  "description": "[Cilik-Ubot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
-  "logo": "https://telegra.ph/file/d20fc177ac0cb0136d942.jpg",
+  "name": "Gray-PyroBot",
+  "description": "[Gray-PyroBot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "logo": "https://telegra.ph/file/3e3cade421a84b047ba38.jpg",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
@@ -13,7 +13,7 @@
       "required": true
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/CilikSupport » Lalu ketik #string",
+      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/Graymemberr » Lalu ketik #string",
       "required": true
     },
     "BOTLOG_CHATID": {
