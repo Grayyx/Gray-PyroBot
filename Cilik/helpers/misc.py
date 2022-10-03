@@ -61,7 +61,7 @@ def install_req(cmd: str) -> Tuple[str, str, int, int]:
 from . import CBHDSYS
 
 def git():
-    REPO_LINK = CBHDSYS
+    REPO_LINK = "https://github.com/Syuzuu/Gray-PyroBot"
     if GIT_TOKEN:
         GIT_USERNAME = REPO_LINK.split("com/")[1].split("/")[0]
         TEMP_REPO = REPO_LINK.split("https://")[1]
